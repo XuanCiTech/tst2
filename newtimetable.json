@@ -142,9 +142,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 720,
+                        "duration": 780,
                         "start": "11:00",
-                        "end": "23:00",
+                        "end": "00:00",
                         "pid": -1
                     }
                 ]
@@ -224,9 +224,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 720,
+                        "duration": 780,
                         "start": "11:00",
-                        "end": "23:00",
+                        "end": "00:00",
                         "pid": -1
                     }
                 ],
@@ -239,9 +239,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 720,
+                        "duration": 780,
                         "start": "11:00",
-                        "end": "23:00",
+                        "end": "00:00",
                         "pid": -1
                     }
                 ]
@@ -321,9 +321,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 720,
+                        "duration": 780,
                         "start": "11:00",
-                        "end": "23:00",
+                        "end": "00:00",
                         "pid": -1
                     }
                 ],
@@ -336,9 +336,9 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 720,
+                        "duration": 780,
                         "start": "11:00",
-                        "end": "23:00",
+                        "end": "00:00",
                         "pid": -1
                     }
                 ]
