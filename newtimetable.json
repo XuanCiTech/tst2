@@ -60,7 +60,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 250,
+                        "duration": 310,
                         "start": "18:50",
                         "end": "23:00",
                         "pid": -1
@@ -127,7 +127,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 70,
+                        "duration": 130,
                         "start": "21:50",
                         "end": "23:00",
                         "pid": -1
@@ -144,7 +144,7 @@
                         "image": "",
                         "duration": 780,
                         "start": "11:00",
-                        "end": "00:00",
+                        "end": "23:00",
                         "pid": -1
                     }
                 ]
@@ -209,7 +209,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 370,
+                        "duration": 430,
                         "start": "16:50",
                         "end": "23:00",
                         "pid": -1
@@ -226,7 +226,7 @@
                         "image": "",
                         "duration": 780,
                         "start": "11:00",
-                        "end": "00:00",
+                        "end": "23:00",
                         "pid": -1
                     }
                 ],
@@ -241,7 +241,7 @@
                         "image": "",
                         "duration": 780,
                         "start": "11:00",
-                        "end": "00:00",
+                        "end": "23:00",
                         "pid": -1
                     }
                 ]
@@ -306,7 +306,7 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 70,
+                        "duration": 130,
                         "start": "21:50",
                         "end": "23:00",
                         "pid": -1
@@ -323,7 +323,7 @@
                         "image": "",
                         "duration": 780,
                         "start": "11:00",
-                        "end": "00:00",
+                        "end": "23:00",
                         "pid": -1
                     }
                 ],
@@ -338,7 +338,7 @@
                         "image": "",
                         "duration": 780,
                         "start": "11:00",
-                        "end": "00:00",
+                        "end": "23:00",
                         "pid": -1
                     }
                 ]
