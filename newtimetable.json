@@ -3,7 +3,9 @@
     "data": [
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO 山海屯"
+                ],
                 "stageTims": [
                     "08:00",
                     "09:00",
@@ -26,7 +28,9 @@
         },
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO 山海屯"
+                ],
                 "stageTims": [
                     "12:00",
                     "13:00",
@@ -45,7 +49,9 @@
         },
         {
             "stageInfo": {
-                "stageNames": [],
+                "stageNames": [
+                    "FESTiO 山海屯"
+                ],
                 "stageTims": [
                     "12:00",
                     "13:00",
