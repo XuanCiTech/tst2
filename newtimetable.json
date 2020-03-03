@@ -32,6 +32,9 @@
                     "FESTiO 山海屯"
                 ],
                 "stageTims": [
+                    "09:00",
+                    "10:00",
+                    "11:00",
                     "12:00",
                     "13:00",
                     "14:00",
@@ -47,6 +50,19 @@
             },
             "timetable": [
                 [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 30,
+                        "start": "9:00",
+                        "end": "09:30",
+                        "pid": -1
+                    },
                     {
                         "isshow": true,
                         "name": "FESTiO 山海屯樂團",
