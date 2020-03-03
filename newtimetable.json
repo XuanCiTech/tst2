@@ -176,6 +176,47 @@
                         "end": "22:00",
                         "pid": -1
                     }
+                ],
+                [
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 200,
+                        "start": "9:00",
+                        "end": "12:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "crossfaith",
+                        "date": 1578284400,
+                        "event_id": 2,
+                        "info": "SiM，是2004年形成的神奈川縣日本金屬樂隊，所屬唱片公司為Universal Music Japan，樂隊目前由MAH，SHOW-HATE，SIN和GODRi組成。他們的音樂風格混合了搖滾，重金屬，新金屬，斯卡曲風，雷鬼，配音和龐克與叛逆的歌詞和歌曲的態度。SiM，是2004年形成的神奈川縣日本金屬樂隊，所屬唱片公司為Universal Music Japan，樂隊目前由MAH，SHOW-HATE，SIN和GODRi組成。他們的音樂風格混合了搖滾，重金屬，新金屬，斯卡曲風，雷鬼，配音和龐克與叛逆的歌詞和歌曲的態度。SiM，是2004年形成的神奈川縣日本金屬樂隊，所屬唱片公司為Universal Music Japan，樂隊目前由MAH，SHOW-HATE，SIN和GODRi組成。他們的音樂風格混合了搖滾，重金屬，新金屬，斯卡曲風，雷鬼，配音和龐克與叛逆的歌詞和歌曲的態度。SiM，是2004年形成的神奈川縣日本金屬樂隊，所屬唱片公司為Universal Music Japan，樂隊目前由MAH，SHOW-HATE，SIN和GODRi組成。他們的音樂風格混合了搖滾，重金屬，新金屬，斯卡曲風，雷鬼，配音和龐克與叛逆的歌詞和歌曲的態度。",
+                        "stage": "海Stage",
+                        "image": "https://festio.app/storage/artist/lqdCj8VMnf4f0VYQ.jpg",
+                        "duration": 90,
+                        "start": "12:20",
+                        "end": "13:50",
+                        "pid": 9
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 490,
+                        "start": "13:50",
+                        "end": "22:00",
+                        "pid": -1
+                    }
                 ]
             ]
         },
