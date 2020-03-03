@@ -4,7 +4,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "山Stage"
+                    "山Stage",
+                    "海Stage"
                 ],
                 "stageTims": [
                     "08:00",
@@ -29,7 +30,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "山Stage"
+                    "山Stage",
+                    "海Stage"
                 ],
                 "stageTims": [
                     "09:00",
@@ -53,7 +55,8 @@
         {
             "stageInfo": {
                 "stageNames": [
-                    "山Stage"
+                    "山Stage",
+                    "海Stage"
                 ],
                 "stageTims": [
                     "12:00",
