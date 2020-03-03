@@ -2,5 +2,13 @@
     "eventId": 2,
     "areaImage": "http://192.168.31.13:8094/storage/event/BMBkC1ofuxxCzlYa.jpg",
     "areaImageX": "http://192.168.31.13:8094/storage/event/URB08tXEvjxvCVbd.jpg",
-    "locations": []
+    "locations": [
+        {
+            "pid": 2,
+            "lat": "24",
+            "lon": "120",
+            "des": "FESTiO 山海屯舞台1",
+            "type": 1
+        }
+    ]
 }
