@@ -2,5 +2,13 @@
     "eventId": 2,
     "areaImage": "https://festio.app/storage/event/",
     "areaImageX": "https://festio.app/storage/event/",
-    "locations": []
+    "locations": [
+        {
+            "pid": 7,
+            "lat": 24.199336,
+            "lon": 120.686156,
+            "des": "山Stage",
+            "type": 1
+        }
+    ]
 }
