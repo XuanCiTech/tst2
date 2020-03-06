@@ -85,6 +85,20 @@
     },
     {
         "isshow": true,
+        "name": "福川組",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "成立於2018年，來自高雄的樂團，\r\n以龐克為基底，混合雷鬼，硬核，ska等元素，\r\n在直線的龐克節奏中帶入慢速的動態與groove，\r\n時而撕裂的吼腔，時而優美的女聲，\r\n期許成為台灣狂暴女力樂團新指標。\r\n\r\nhttps://www.facebook.com/FUKUKAWAGANG/",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/3a92ruponu1LVC7D.jpg",
+        "duration": 30,
+        "start": "12:30",
+        "end": "13:00",
+        "play_list": [],
+        "pid": 25
+    },
+    {
+        "isshow": true,
         "name": "St. Clair",
         "date": 1587945600,
         "eventId": 2,
