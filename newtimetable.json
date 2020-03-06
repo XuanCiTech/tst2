@@ -403,8 +403,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 570,
+                        "duration": 30,
                         "start": "14:00",
+                        "end": "14:30",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "彼岸曙光",
+                        "date": 1587969000,
+                        "eventId": 2,
+                        "info": "彼岸曙光成立於2011年的高雄，現任團員為Vocal-許淵智、Guitars-黃彥夫、呂存恕、Bass-帥晨毅、Drums-周楷倫，曲風以Post Hardcore為基底，融合Modern Rock/Metal/Alternative等元素，而主唱許淵智童年時期深受西方靈魂樂及Deftones音樂氛圍影響，在創作表達方面亦不受傳統Post Hardcore流派框架所拘限。  　　\r\n\r\nhttps://www.facebook.com/StayWideAwakeTW",
+                        "stage": "屯",
+                        "image": "https://festio.app/storage/artist/euDKG514Zfs5TS16.jpg",
+                        "duration": 30,
+                        "start": "14:30",
+                        "end": "15:00",
+                        "pid": 27
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
