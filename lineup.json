@@ -41,6 +41,36 @@
     },
     {
         "isshow": true,
+        "name": "Break One's All",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "生命是由20％的美好，與80％的苦澀組合而成。\u2028人們總是在現實與夢想之間拉扯，\u2028面對這社會，每個人都有無法逃避的責任與痛苦，\u2028卻期待哪個人可以伸出手將自己從深淵解救；\r\n\r\nBreak One's All 用樂句、用吶喊道出最深切的情緒，\u2028也期望這些音樂可以鼓舞正在生命低潮的人，\u2028向你訴說，\u2028你永遠不是一個人。\r\n\r\nhttps://www.facebook.com/breakonesall/",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/fgt0emqzuaVyz9ID.jpg",
+        "duration": 30,
+        "start": "11:30",
+        "end": "12:00",
+        "play_list": [
+            {
+                "name": "A New Page in Your Mind",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/e2/39/48/e2394887-8b49-3a57-6633-15d31c41a879/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview111/v4/e6/f8/cd/e6f8cdb4-16ec-b773-7d12-12bb599efc41/mzaf_8160485257817687339.plus.aac.p.m4a"
+            },
+            {
+                "name": "Fine",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/e2/39/48/e2394887-8b49-3a57-6633-15d31c41a879/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview127/v4/bf/97/e6/bf97e66f-5561-602e-cf12-1ec735c4b9d6/mzaf_706767536335886913.plus.aac.p.m4a"
+            },
+            {
+                "name": "The Rain",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music117/v4/e2/39/48/e2394887-8b49-3a57-6633-15d31c41a879/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview127/v4/e2/5d/9c/e25d9cd9-9db5-9a94-3ed5-d40a03d14972/mzaf_1281332734751406284.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 24
+    },
+    {
+        "isshow": true,
         "name": "Bones Of Rakshasa",
         "date": 1587945600,
         "eventId": 2,
