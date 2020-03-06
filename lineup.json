@@ -113,6 +113,20 @@
     },
     {
         "isshow": true,
+        "name": "飯匙槍",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "我們來自台南，飯匙槍是閩南語形容眼鏡蛇的說法，眼鏡蛇暴怒時會張開像飯匙一樣的頸部，強大且致命。\r\n\r\n我們想用最直接最強的力道給予聽覺最大的重擊，所以我們以Metal的型態去詮釋我們的音樂，我們融合Thrash Metal與Metalcore的元素，並不局限於類型的框架中，想做出來的音樂單純是心中渴望的樣子。\r\n\r\nhttps://www.facebook.com/NajaAtraBand/",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/GwA0hKvMQZu2cPSu.jpg",
+        "duration": 30,
+        "start": "13:30",
+        "end": "14:00",
+        "play_list": [],
+        "pid": 26
+    },
+    {
+        "isshow": true,
         "name": "EnlightEN",
         "date": 1587945600,
         "eventId": 2,
