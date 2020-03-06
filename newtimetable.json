@@ -310,34 +310,8 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 70,
+                        "duration": 280,
                         "start": "18:50",
-                        "end": "20:00",
-                        "pid": -1
-                    },
-                    {
-                        "isshow": true,
-                        "name": "OBSESS",
-                        "date": 1587988800,
-                        "eventId": 2,
-                        "info": "OBSESS成立自2008年，樂團始終保持謹慎的態度，記錄每一件這個世界正在發生的故事，之後以極大化的情緒詮釋成曲。 OBSESS的音樂早期受到Emo、Emo punk、Post hardcore的樂風影響極深,以如此直接並帶著豐富情感的音樂去衝擊聽眾的感官與思想，便是OBSESS一直在做的事。",
-                        "stage": "海",
-                        "image": "https://festio.app/storage/artist/3pk67rMaokoN11pf.jpg",
-                        "duration": 50,
-                        "start": "20:00",
-                        "end": "20:50",
-                        "pid": 23
-                    },
-                    {
-                        "isshow": false,
-                        "name": "",
-                        "date": "",
-                        "event_id": -1,
-                        "info": "",
-                        "stage": "",
-                        "image": "",
-                        "duration": 160,
-                        "start": "20:50",
                         "end": "23:00",
                         "pid": -1
                     }
