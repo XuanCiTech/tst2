@@ -125,6 +125,20 @@
     },
     {
         "isshow": true,
+        "name": "恕",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "南台灣唯一足以與北部分庭抗禮 最具指標性之爆女力metal部隊！\r\n女主唱丸子擁有狂暴嘶吼與優美旋律線雙重聲線，火力強大的主奏吉他阿文配給對位鮮明的節奏吉他小黑，鼓手紅茶戰車般厚重鼓擊與\r\n小睿流暢的無琴格貝斯分別擔任左翼及右翼部隊。\r\n\r\n\r\n2003年成軍以來，演出包括西藏自由音樂會、野台開唱、大港開唱、大威陣金屬制霸、極度重音與台灣魂等大小音樂祭，足跡踏遍THE WALL、老諾浮現、ATT等，並與日本GRIM FORCE、METAL SAFARI、新加坡MEZA VIRS、BHELLION、美國FIREWIND、芬蘭NORTHER等國際知名樂團多次同台演出，並計劃於年底前往香港日本展開首次亞洲巡迴。",
+        "stage": "海",
+        "image": "https://festio.app/storage/artist/w4HbejvZQrV4ITpU.jpg",
+        "duration": 50,
+        "start": "18:00",
+        "end": "18:50",
+        "play_list": [],
+        "pid": 22
+    },
+    {
+        "isshow": true,
         "name": "Ocean Sleeper",
         "date": 1587945600,
         "eventId": 2,
