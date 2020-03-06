@@ -455,8 +455,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 450,
+                        "duration": 30,
                         "start": "16:00",
+                        "end": "16:30",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "餵飽豬",
+                        "date": 1587976200,
+                        "eventId": 2,
+                        "info": "餵飽豬\r\n來自溫泉（溫柔）鄉礁溪\r\n成立於2012年的佛光大學熱音社\r\n出了學校後可能與你我一樣，曾經有著烏托邦嬉皮的幻想，\r\n但無奈關心政治、父母健在、積欠債務、人無大志，\r\n現在只能好好當一名龐克。\r\n\r\n作品內容以失依媽寶、社會價值、社會事件為靈感主軸，\r\n音樂融合不好的吉他痛，亂叫的旋律\r\n與認真為你的拍子以及好動但俗氣的低頻聲線。\r\n除了試圖學習龐客的憤怒與發洩以外，\r\n現場還獨有一種喜劇演員的詮釋。\r\n於2018後半年在團員經歷各種人生冒險後，\r\n四人團的飽豬終於再次合體！\r\n\r\n在2019年飽豬的觀眾開始呈現超展開狀態，\r\n觀眾們會在演出時進行各種變身，帶著喧囂、溫馨或者狂喜地演出進行時請小心飛躍的人類。\r\n\r\nhttps://www.facebook.com/feedpigs/",
+                        "stage": "屯",
+                        "image": "https://festio.app/storage/artist/a1J8VbcyLxSZsAj0.jpg",
+                        "duration": 30,
+                        "start": "16:30",
+                        "end": "17:00",
+                        "pid": 29
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 390,
+                        "start": "17:00",
                         "end": "23:00",
                         "pid": -1
                     }
