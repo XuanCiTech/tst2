@@ -52,5 +52,19 @@
         "end": "13:50",
         "play_list": [],
         "pid": 14
+    },
+    {
+        "isshow": true,
+        "name": "End These Days",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "來自韓國釜山的金屬核硬核樂隊，目前與Watch Out！Records簽約，2018年2月，首張專輯《Ambivanlence》被提名為第15屆韓國音樂獎的最佳金屬和硬核專輯。",
+        "stage": "山",
+        "image": "https://festio.app/storage/artist/IcNNLkHpkv8BsUTj.jpg",
+        "duration": 50,
+        "start": "15:00",
+        "end": "15:50",
+        "play_list": [],
+        "pid": 15
     }
 ]
