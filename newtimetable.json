@@ -165,8 +165,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 220,
+                        "duration": 70,
                         "start": "19:50",
+                        "end": "21:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "coldrain",
+                        "date": 1587992400,
+                        "eventId": 2,
+                        "info": "已經在台灣有超高知名度的冷雨，第一屆山海屯就已經是用翻過去的熱度讓全場噴炸，五年後的現在 coldrain 已經非昔比，不斷在各種國度各種場合創造驚奇之旅，現在我們一起在山海屯再相聚，這一定是要集合到場看看才行，他們希望回到這裡，就是主場！",
+                        "stage": "山",
+                        "image": "https://festio.app/storage/artist/A6QOSNDGW9kS4Baf.jpg",
+                        "duration": 50,
+                        "start": "21:00",
+                        "end": "21:50",
+                        "pid": 18
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 100,
+                        "start": "21:50",
                         "end": "23:00",
                         "pid": -1
                     }
