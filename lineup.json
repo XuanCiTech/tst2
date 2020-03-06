@@ -80,5 +80,19 @@
         "end": "17:50",
         "play_list": [],
         "pid": 16
+    },
+    {
+        "isshow": true,
+        "name": "Ocean Sleeper",
+        "date": 1587945600,
+        "eventId": 2,
+        "info": "澳洲硬蕊霸主 Ocean Sleeper\r\n\r\n2016年成軍，超級年輕的新團，但受注目度神高\r\n成軍第二年開始即連續兩年登上國際知名重型音樂節\r\n然後陸續得到Stray From The Path、Dream on Dreamer等團賞識，還有世界級大團Killswitch Engage的欽點共演，這團的未來沒有霧霾一片光明！",
+        "stage": "山",
+        "image": "https://festio.app/storage/artist/LwI0KCzNpNpCriup.jpg",
+        "duration": 50,
+        "start": "19:00",
+        "end": "19:50",
+        "play_list": [],
+        "pid": 17
     }
 ]
