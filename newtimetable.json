@@ -206,8 +206,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 120,
                         "start": "10:00",
+                        "end": "12:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Bones Of Rakshasa",
+                        "date": 1587960000,
+                        "eventId": 2,
+                        "info": "Bones Of Rakshasa 是一隊在2016 年夏天成立的本地搖滾樂隊。Rakshasa 的中文解作「羅剎」，是印度教神話裏其中一重主要鬼神。羅剎象徵破壞、不幸，更被指為食人肉的魔鬼。放在現實社會的框架中，羅剎可以被指為人性最陰險，可怕的一面。",
+                        "stage": "海",
+                        "image": "https://festio.app/storage/artist/WWFX4agEJF55albz.jpg",
+                        "duration": 50,
+                        "start": "12:00",
+                        "end": "12:50",
+                        "pid": 19
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 640,
+                        "start": "12:50",
                         "end": "23:00",
                         "pid": -1
                     }
