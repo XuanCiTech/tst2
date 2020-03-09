@@ -898,6 +898,46 @@
     },
     {
         "isshow": true,
+        "name": "greedy black hole",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "誰說台灣地下樂團沒有好專輯？GBH做到了！無論是音樂元素還是錄音工作，完成度直逼歐美水準！ 阿通伯二店副店長 Jacob 小傑\n\n \n\n流著台灣血液的金屬魂，Greedy Black Hole即將在年底強勢侵襲，入侵你的血液！閃靈/IC-吉他手 小黑\n\n \n\nGreedy Black Hole 成立於2010年底，曲風包含Melodic Death Metal 以及Metalcore，經過幾次成員變動，於2012年初女主唱香香加入後發行了第一張迷你專輯「The Root of Greed」。團名Greedy Black Hole 想表達的是人性的貪婪就像黑洞，無止盡的侵蝕，直到世界變為一片虛無，貪婪終將導致自身毀滅。\n\n \n\n2013年底發行第一張完整專輯「Trista」，專輯的歌取串成一個故事，主角名為Trista的女孩，故事由戰爭揭開序幕，Trista在戰爭中失去了一切，開啓一段滿佈荊棘的旅程。",
+        "stage": "海",
+        "image": "https://festio.app/storage/artist/xCw93cjeKkfrbQrk.jpg",
+        "duration": 50,
+        "start": "16:00",
+        "end": "16:50",
+        "play_list": [
+            {
+                "name": "Being P!Sco (Cover)",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/1c/d2/07/1cd20731-9ae6-754f-6582-3b3936f2bc43/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/cd/e0/bb/cde0bb82-564f-423d-2e34-2b8c38747d53/mzaf_2005171111873604918.plus.aac.p.m4a"
+            },
+            {
+                "name": "I'll Find You",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/e7/f0/ca/e7f0cae5-06ef-6e62-5bec-79e27819a41e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/64/39/8f/64398fdc-28ef-175b-e42d-48ae386685bf/mzaf_4562970684970237245.plus.aac.p.m4a"
+            },
+            {
+                "name": "Humanity",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/e7/f0/ca/e7f0cae5-06ef-6e62-5bec-79e27819a41e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/ab/03/31/ab0331c3-715b-ada5-9eb2-8b8bcf9ac6fc/mzaf_830506869631107624.plus.aac.p.m4a"
+            },
+            {
+                "name": "Viper",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/e7/f0/ca/e7f0cae5-06ef-6e62-5bec-79e27819a41e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview30/v4/ed/30/73/ed307338-d3cb-0486-4086-0e5e08eb827f/mzaf_8250189254735416913.plus.aac.p.m4a"
+            },
+            {
+                "name": "Black Tide",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music60/v4/e7/f0/ca/e7f0cae5-06ef-6e62-5bec-79e27819a41e/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview20/v4/de/7c/98/de7c983a-55fe-e4e7-edfe-661e95360b8a/mzaf_2566913044773583902.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 203
+    },
+    {
+        "isshow": true,
         "name": "暴君",
         "date": 1588032000,
         "eventId": 2,
