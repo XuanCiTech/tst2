@@ -943,8 +943,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 150,
                         "start": "10:00",
+                        "end": "12:30",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "CANA",
+                        "date": 1588048200,
+                        "eventId": 2,
+                        "info": "Cana was formed in late 2006 by the great bonds between childhood friends Dough, Chun Fan and his brother Chun Hao Su. Kenny later joined and since then, we care about nothing else but pure love for music without hidden agenda or mind-controlling labels.",
+                        "stage": "屯",
+                        "image": "https://festio.app/storage/artist/xGQ4X1F5MteN4bwD.jpg",
+                        "duration": 30,
+                        "start": "12:30",
+                        "end": "13:00",
+                        "pid": 206
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 630,
+                        "start": "13:00",
                         "end": "23:00",
                         "pid": -1
                     }
