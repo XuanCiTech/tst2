@@ -789,6 +789,41 @@
     },
     {
         "isshow": true,
+        "name": "CANA",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "Cana was formed in late 2006 by the great bonds between childhood friends Dough, Chun Fan and his brother Chun Hao Su. Kenny later joined and since then, we care about nothing else but pure love for music without hidden agenda or mind-controlling labels.",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/xGQ4X1F5MteN4bwD.jpg",
+        "duration": 30,
+        "start": "12:30",
+        "end": "13:00",
+        "play_list": [
+            {
+                "name": "Always With Me/ Spirited Away",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/85/71/27/8571278c-d160-9d13-16f8-7540d73698d7/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/4d/a1/cf/4da1cfec-deb3-314c-a322-87ebf1c80f07/mzaf_4095700104152929134.plus.aac.p.m4a"
+            },
+            {
+                "name": "Will You Love Me Tomorrow (Originally Performed by Carole King)",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music/v4/9a/8e/a4/9a8ea4ff-cf64-106e-da1d-332d207bdc95/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview62/v4/82/53/0a/82530a20-00ad-b1be-d31e-2e20b800e742/mzaf_1742960539271518560.plus.aac.p.m4a"
+            },
+            {
+                "name": "Hteo, Ne Hteo, Rodicu Ti Sina",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2c/a8/7d/2ca87d0a-a257-8c1c-9954-74b1592583e0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music2/v4/8f/93/a4/8f93a43f-6901-4b72-b9aa-a1ad42b79e10/mzaf_4555485850526678975.plus.aac.p.m4a"
+            },
+            {
+                "name": "Kazni Se Sam",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music/v4/2c/a8/7d/2ca87d0a-a257-8c1c-9954-74b1592583e0/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/v4/f1/65/77/f1657786-92af-fb91-6c65-b8d4077ec35a/mzaf_5193455156264765605.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 206
+    },
+    {
+        "isshow": true,
         "name": "Future After A Second",
         "date": 1588032000,
         "eventId": 2,
