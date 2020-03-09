@@ -731,8 +731,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 380,
+                        "duration": 70,
                         "start": "17:10",
+                        "end": "18:20",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Xmas eileen",
+                        "date": 1588069200,
+                        "eventId": 2,
+                        "info": "Dancing, laughing, crying and singing in ultra entertaining sound.\n\nThey express their Japanese rock sound in a unique sense to the world. Weakness of human, sympathy to others, courage to step forward, all those good and bad that they feel in their life.\n\nStage members are formed by twin vocal, performer, guitar, bass, drums and DJ, total 7 members and all are called \"NO NAME\"(which they are anonymous)\n\nMoreover, there are composer, movie director, artwork designer as back member of Xmas Eileen creator team.\n\nDebut live is in 2014, from then Xmas Eileen was invited and played in many major music festival and empowering them in a high speed. They are announced to be major in 31 Aug,2016 with 1st Album\" ONLY THE BEGINNING\".",
+                        "stage": "山",
+                        "image": "https://festio.app/storage/artist/gAZzlvlW5daDq2gR.jpg",
+                        "duration": 50,
+                        "start": "18:20",
+                        "end": "19:10",
+                        "pid": 199
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 260,
+                        "start": "19:10",
                         "end": "23:00",
                         "pid": -1
                     }
