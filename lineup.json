@@ -889,6 +889,86 @@
     },
     {
         "isshow": true,
+        "name": "粗大Band",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "從兩、三年前困難生活節、社運現場，唱到了Legacy大團舞台，粉絲專頁破3,000讚。只能說，粗大Band的2017年真是福星高照阿。\n\n這4個男孩子，彈著標準暢快的流行龐克負責開場，沒想到一上台就老哏齊發，要觀眾舉手、蹲下、把雙手借給我⋯⋯曲目之間的談話（talking），鼓手還會化身孔鏘老師來點綜藝過場；曲序才走一半，就要大家開手機燈揮舞了（畢竟他們能玩這招的歌，也只有這首〈慢歌〉，省不得）。但他們的台下不只有手機燈，還有粉絲舉自製的牌子（據悉，上次有人在大團舉牌的場子，是熊寶貝樂團）。男孩兒在台上揮灑青春賀爾蒙，走到台前趴竿，發現第一排也八成是女生來著！\n\n粗大Band 主唱老盧前陣子染上急性扁條腺炎，大團演出那晚前已經兩天沒說話，但手裡的啤酒還是照喝不誤。他們的歌很熱血、很直白，唱著挫折，俐落節奏仍提醒你，人生還是得向前走。一如他們在粉絲專頁的自介：「我們是來自臺灣臺北歡樂的流行龐克樂隊，生活中有許多事情與人物讓你想罵「吃大便」，不如跟著我們一起來粗大Band吧！」",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/FcDKXD0TD0le95sy.jpg",
+        "duration": 30,
+        "start": "13:30",
+        "end": "14:00",
+        "play_list": [
+            {
+                "name": "粗大Band",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/95/5e/72/955e7278-1975-6267-fc70-c52222d02f20/mzaf_2660950547192552585.plus.aac.p.m4a"
+            },
+            {
+                "name": "未知的星球",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music49/v4/8d/f9/2c/8df92c63-49fe-c70a-99d8-99501bbfb75c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/60/09/cf/6009cfa7-39f3-0aed-61ec-7a8d362b60f9/mzaf_2721997682752687686.plus.aac.p.m4a"
+            },
+            {
+                "name": "莫名的憂傷",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/26/08/1f/26081f13-871d-6ede-6c63-8cc5ea51b208/mzaf_7424462607554401245.plus.aac.p.m4a"
+            },
+            {
+                "name": "在一起",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music49/v4/8d/f9/2c/8df92c63-49fe-c70a-99d8-99501bbfb75c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/f6/30/99/f6309975-1d80-d99d-31f8-4479d7e4bb30/mzaf_6842844790952353255.plus.aac.p.m4a"
+            },
+            {
+                "name": "慢歌",
+                "img": "https://is3-ssl.mzstatic.com/image/thumb/Music49/v4/8d/f9/2c/8df92c63-49fe-c70a-99d8-99501bbfb75c/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview71/v4/23/e0/ce/23e0ce81-ac6d-358e-192f-e94628b9b6d0/mzaf_3143690094552251359.plus.aac.p.m4a"
+            },
+            {
+                "name": "就是現在",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/f6/7f/58/f67f58ab-f727-2c7b-639a-e594f01ac8c0/mzaf_5050893455701678166.plus.aac.p.m4a"
+            },
+            {
+                "name": "生日派對",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/4e/d7/75/4ed77546-eaa4-61dd-5329-7fb3811e3053/mzaf_6559985286792123293.plus.aac.p.m4a"
+            },
+            {
+                "name": "回不去的時光",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/8d/9c/60/8d9c6039-2a55-6291-6787-3746cbfe5f65/mzaf_4397191639777356415.plus.aac.p.m4a"
+            },
+            {
+                "name": "紀念的歌",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/85/db/57/85db57c3-c27a-b105-a80b-95276a1f998d/mzaf_626263944765830860.plus.aac.p.m4a"
+            },
+            {
+                "name": "絢爛花火",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/25/60/46/256046ff-5ec9-2bd9-a2c9-3f627fb42483/mzaf_6106764199180105914.plus.aac.p.m4a"
+            },
+            {
+                "name": "T.G.I. Future!",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/9c/01/82/9c0182e5-b463-9a40-4bc9-df92b5525c95/mzaf_2624731257525465914.plus.aac.p.m4a"
+            },
+            {
+                "name": "Hot Summer",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview118/v4/16/c6/50/16c6506c-88a1-a103-7e0c-11f222ce0a22/mzaf_2065787483771334274.plus.aac.p.m4a"
+            },
+            {
+                "name": "火柴",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music128/v4/83/fc/ca/83fcca57-8f15-2648-87fe-46dc84c16798/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/a0/3d/02/a03d026d-726e-28a5-4550-ae55085908de/mzaf_3418201756234324198.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 207
+    },
+    {
+        "isshow": true,
         "name": "最後一擊",
         "date": 1588032000,
         "eventId": 2,
