@@ -679,8 +679,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 590,
+                        "duration": 60,
                         "start": "13:40",
+                        "end": "14:40",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Windrunner",
+                        "date": 1588056000,
+                        "eventId": 2,
+                        "info": "越南金屬核樂團Windrunner透過Youtube宣傳頻道Dreambound釋出重新創作版本的《Lotus》，並將由美國廠牌Famined Records於8月23日發行新EP《SEN》，該EP收錄了6首該樂團最受歡迎曲目的重新創作版本，這也是繼2018年首張專輯《MAI》後的全新作品。文末可觀賞該曲影音，且可以在此處預購新EP《SEN》。",
+                        "stage": "山",
+                        "image": "https://festio.app/storage/artist/hdobEu0rdo2TFPsO.jpg",
+                        "duration": 50,
+                        "start": "14:40",
+                        "end": "15:30",
+                        "pid": 197
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 480,
+                        "start": "15:30",
                         "end": "23:00",
                         "pid": -1
                     }
