@@ -1022,6 +1022,31 @@
     },
     {
         "isshow": true,
+        "name": "with confidence",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "譯自英文-2012年，一支來自悉尼的澳大利亞流行龐克樂隊充滿信心。該樂隊目前由主唱/貝斯手Jayden Seeley，吉他手/和聲歌手Inigo Del Carmen和鼓手Joshua Brozzesi組成。",
+        "stage": "海",
+        "image": "https://festio.app/storage/artist/1H1MLPqSk6IUKm0F.jpg",
+        "duration": 50,
+        "start": "19:50",
+        "end": "20:40",
+        "play_list": [
+            {
+                "name": "We'll Be Okay",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music49/v4/f1/df/f7/f1dff777-b2b8-357a-8553-2d69350e8542/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview18/v4/a9/28/35/a92835fe-f0f4-e0e7-db5c-8479e8c4054f/mzaf_2677783233414555955.plus.aac.p.m4a"
+            },
+            {
+                "name": "We'll Be Okay",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/4b/e6/e7/4be6e7e5-4ed7-ed3e-d788-340e215e2c9f/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music69/v4/0d/a2/f7/0da2f71c-5b01-1bfd-2906-e77e0d3edf60/mzaf_8497142886845883980.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 205
+    },
+    {
+        "isshow": true,
         "name": "mayday parade",
         "date": 1588032000,
         "eventId": 2,
