@@ -995,8 +995,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 570,
+                        "duration": 30,
                         "start": "14:00",
+                        "end": "14:30",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "暴嗜者",
+                        "date": 1588055400,
+                        "eventId": 2,
+                        "info": "「吞噬一切的漩渦，靈魂與心都將蕩然無存，痛苦與悲憤在我們嘶吼之中。」\n\n於2013年組成，由EFTC吉他手-阿強所領軍的Death Metal/Deathcore新團。將緊湊綿密的鼓點與厚重的吉他音浪化為險惡的大海漩渦，吞噬所有一切醜惡。",
+                        "stage": "屯",
+                        "image": "https://festio.app/storage/artist/PmCizT8LJXKoGDdW.jpg",
+                        "duration": 30,
+                        "start": "14:30",
+                        "end": "15:00",
+                        "pid": 208
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 510,
+                        "start": "15:00",
                         "end": "23:00",
                         "pid": -1
                     }
