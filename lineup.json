@@ -841,5 +841,35 @@
             }
         ],
         "pid": 197
+    },
+    {
+        "isshow": true,
+        "name": "暴君",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "在表演前幾天透露樂團將有人事異動的暴君，日前終於確認並不是增加團員或重新編制，而是創團元老之一的主唱蕭逸將要在明年離開樂團，專心於自己另一個金屬樂團 Masquerader。\n\n由蕭逸、林祈安、戴敬緯、葉濬誠組成的暴君，於上週六「管弦再臨」台北專場演出上，確認了成員變動的訊息，主唱蕭逸親口表示：「暴君四人編制的我們，明年將有一個人要離開；而這個人，就是我。」這一席話造成台下原本激動的「暴民」們一片訝然；蕭逸補充，自己已考慮長達半年，有鑒於自己另組的鞭笞樂風金屬樂 Masquerader 必須完成新專輯，決定在明年退出暴君。\n\n這顆震撼彈也讓歌迷在後續的〈落雨賦〉、〈明潭終戰〉難掩激動之情，除了蕭逸下台後被強迫「定孤枝」，也讓暴君強忍著情緒把演出完成；消息曝光後，許多陪伴暴君成長的樂迷也紛紛在臉書上留言，祝福之外更難掩不捨，此情此景讓難得跨上大舞台、大編排陣仗的暴君非常感動。",
+        "stage": "山",
+        "image": "https://festio.app/storage/artist/uAp8RJOOBloNrer8.jpg",
+        "duration": 50,
+        "start": "16:20",
+        "end": "17:10",
+        "play_list": [
+            {
+                "name": "明潭終戰",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d0/70/90/d0709027-7386-3969-d7bd-86f226d85593/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/85/60/89/85608914-582c-fc4f-62e6-64962347db62/mzaf_129896560202007130.plus.aac.p.m4a"
+            },
+            {
+                "name": "落雨賦",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d0/70/90/d0709027-7386-3969-d7bd-86f226d85593/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/46/c3/11/46c31178-fc29-7ee2-50c3-06e3a6b6113a/mzaf_1835532807664769418.plus.aac.p.m4a"
+            },
+            {
+                "name": "反芻",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music128/v4/22/7d/54/227d54a4-a5cf-b096-de3b-85f87aa409a9/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview128/v4/38/83/60/38836036-a153-4985-5a47-0bc65f5a6ed7/mzaf_4784524145790613193.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 198
     }
 ]
