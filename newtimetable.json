@@ -653,8 +653,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 180,
                         "start": "10:00",
+                        "end": "13:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "Future After A Second",
+                        "date": 1588050000,
+                        "eventId": 2,
+                        "info": "首張數位EP 《To the Light》第二支MV “Farthest yesterday” 正式上線！ 呼應著「最遙遠的昨天」，揉和不合時宜的90風格，不是念舊復古",
+                        "stage": "山",
+                        "image": "https://festio.app/storage/artist/l20z0n7X3L07L8VB.jpg",
+                        "duration": 40,
+                        "start": "13:00",
+                        "end": "13:40",
+                        "pid": 196
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 590,
+                        "start": "13:40",
                         "end": "23:00",
                         "pid": -1
                     }
