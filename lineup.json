@@ -1209,6 +1209,20 @@
     },
     {
         "isshow": true,
+        "name": "妖之鬼狐",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "「妖の鬼狐-Ayakashi no kiko -」以「百鬼夜行」為樂團主題，以日本妖怪傳說融入世界觀，音樂亦加入和式風格，各成員都添上妖怪外號——主唱貘為酒呑童子；結他手TaNa是九尾の狐；支援結他手宮路ヤスアキ是烏天狗；支援鼓手優一則是鵺。",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/L0wgv2nfT3s3jNco.jpg",
+        "duration": 30,
+        "start": "18:30",
+        "end": "19:00",
+        "play_list": [],
+        "pid": 212
+    },
+    {
+        "isshow": true,
         "name": "with confidence",
         "date": 1588032000,
         "eventId": 2,
