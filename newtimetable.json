@@ -798,8 +798,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 810,
+                        "duration": 120,
                         "start": "10:00",
+                        "end": "12:00",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "MISTY",
+                        "date": 1588046400,
+                        "eventId": 2,
+                        "info": "2006年12月に愛知県安城市にて結成。\n\n2011年4月に1ｓｔ Single\"This is a gift for you.\"をDAYDREAM RECORDSからTOWER RECORDS限定で発売。\n\n2011年9月にWE LOVE RECORDSに移籍。\n1st mini album\"your story,my story\"を発売。\n\n2012年3月地元安城夢希望RADIO CLUBにてツアーファイナルワンマンライブを決行。\n　\n\n2012年12月にTRUST RECORDSと契約。",
+                        "stage": "海",
+                        "image": "https://festio.app/storage/artist/WywHKuNBm8X32wGq.jpg",
+                        "duration": 50,
+                        "start": "12:00",
+                        "end": "12:50",
+                        "pid": 201
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 640,
+                        "start": "12:50",
                         "end": "23:00",
                         "pid": -1
                     }
