@@ -1141,6 +1141,20 @@
     },
     {
         "isshow": true,
+        "name": "Whaleholic",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "Whaleholic成立於2017年9月，由鼓手Hiko、吉他手/主唱Kai和貝斯手/主唱Decy組成，以旋律龐克為主融和了Hardcore、Emo等元素，形成獨樹一幟的三件式龐克團",
+        "stage": "屯",
+        "image": "https://festio.app/storage/artist/9FbqDffuixP0VGZP.png",
+        "duration": 30,
+        "start": "17:30",
+        "end": "18:00",
+        "play_list": [],
+        "pid": 211
+    },
+    {
+        "isshow": true,
         "name": "神棍",
         "date": 1588032000,
         "eventId": 2,
