@@ -1151,8 +1151,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 210,
+                        "duration": 30,
                         "start": "20:00",
+                        "end": "20:30",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "unto the dawn",
+                        "date": 1588077000,
+                        "eventId": 2,
+                        "info": "在生活上,人們在各自不同不幸的經歷裡上演著重要角色。 我們以重金屬節奏配合各樣情緒的旋律，營造釋放感覺的氛圍。 如果你對我們的音樂沒同感,請你細聽,因為故事在你身邊從不間斷發生。 如果你對我們的音樂有同感,請你和我們一起走遠,直到大家的曙光出現。",
+                        "stage": "屯",
+                        "image": "https://festio.app/storage/artist/Cw1QyzjjqBcHCvlY.jpg",
+                        "duration": 30,
+                        "start": "20:30",
+                        "end": "21:00",
+                        "pid": 214
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 150,
+                        "start": "21:00",
                         "end": "23:00",
                         "pid": -1
                     }
