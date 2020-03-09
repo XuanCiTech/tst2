@@ -902,8 +902,34 @@
                         "info": "",
                         "stage": "",
                         "image": "",
-                        "duration": 280,
+                        "duration": 60,
                         "start": "18:50",
+                        "end": "19:50",
+                        "pid": -1
+                    },
+                    {
+                        "isshow": true,
+                        "name": "with confidence",
+                        "date": 1588074600,
+                        "eventId": 2,
+                        "info": "譯自英文-2012年，一支來自悉尼的澳大利亞流行龐克樂隊充滿信心。該樂隊目前由主唱/貝斯手Jayden Seeley，吉他手/和聲歌手Inigo Del Carmen和鼓手Joshua Brozzesi組成。",
+                        "stage": "海",
+                        "image": "https://festio.app/storage/artist/1H1MLPqSk6IUKm0F.jpg",
+                        "duration": 50,
+                        "start": "19:50",
+                        "end": "20:40",
+                        "pid": 205
+                    },
+                    {
+                        "isshow": false,
+                        "name": "",
+                        "date": "",
+                        "event_id": -1,
+                        "info": "",
+                        "stage": "",
+                        "image": "",
+                        "duration": 170,
+                        "start": "20:40",
                         "end": "23:00",
                         "pid": -1
                     }
