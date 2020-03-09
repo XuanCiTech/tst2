@@ -811,5 +811,35 @@
             }
         ],
         "pid": 196
+    },
+    {
+        "isshow": true,
+        "name": "Windrunner",
+        "date": 1588032000,
+        "eventId": 2,
+        "info": "越南金屬核樂團Windrunner透過Youtube宣傳頻道Dreambound釋出重新創作版本的《Lotus》，並將由美國廠牌Famined Records於8月23日發行新EP《SEN》，該EP收錄了6首該樂團最受歡迎曲目的重新創作版本，這也是繼2018年首張專輯《MAI》後的全新作品。文末可觀賞該曲影音，且可以在此處預購新EP《SEN》。",
+        "stage": "山",
+        "image": "https://festio.app/storage/artist/hdobEu0rdo2TFPsO.jpg",
+        "duration": 50,
+        "start": "14:40",
+        "end": "15:30",
+        "play_list": [
+            {
+                "name": "Marionette (feat. Michael Lawler)",
+                "img": "https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/61/bd/4a/61bd4a27-a48c-cfca-4180-f97f4a084beb/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music5/v4/bb/69/f9/bb69f9f5-3757-e9bf-cba0-a125c6efb6d7/mzaf_5659390336498173491.plus.aac.p.m4a"
+            },
+            {
+                "name": "Gravity",
+                "img": "https://is2-ssl.mzstatic.com/image/thumb/Music7/v4/75/1a/da/751ada59-a122-2e69-c1e6-9b9319d8d7e1/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music7/v4/e3/2c/6f/e32c6f26-d5b4-8991-f4a4-ab29fffb2d42/mzaf_3057843761038873014.plus.aac.p.m4a"
+            },
+            {
+                "name": "Intrepid",
+                "img": "https://is4-ssl.mzstatic.com/image/thumb/Music1/v4/85/88/59/85885914-5345-f5f0-8d5f-d79f4fb9d1af/source/100x100bb.jpg",
+                "mp3URL": "https://audio-ssl.itunes.apple.com/itunes-assets/Music1/v4/a5/dc/83/a5dc83b9-07ac-7aa9-4bb4-42828a69895b/mzaf_5927530013308462435.plus.aac.p.m4a"
+            }
+        ],
+        "pid": 197
     }
 ]
